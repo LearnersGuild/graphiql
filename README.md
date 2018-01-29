@@ -36,9 +36,9 @@ GraphQL API Explorer for Learners Guild services.
 
     ```bash
     PORT=9002
-    APP_BASE_URL=http://graphiql.learnersguild.dev
-    IDM_BASE_URL=http://idm.learnersguild.dev
-    ECHO_BASE_URL=http://echo.learnersguild.dev
+    APP_BASE_URL=http://graphiql.learnersguild.meh
+    IDM_BASE_URL=http://idm.learnersguild.meh
+    ECHO_BASE_URL=http://echo.learnersguild.meh
     JWT_PRIVATE_KEY="<get from IDM service>"
     JWT_PUBLIC_KEY="<get from IDM service>"
     ```
@@ -58,7 +58,7 @@ GraphQL API Explorer for Learners Guild services.
 9. Visit the server in your browser:
 
     ```bash
-    open http://graphiql.learnersguild.dev
+    open http://graphiql.learnersguild.meh
     ```
 
 ## License
